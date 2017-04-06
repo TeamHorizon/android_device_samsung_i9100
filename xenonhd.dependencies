@@ -7,7 +7,7 @@
     {
         "repository": "TeamHorizon/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-	"branch": "n"
+	"branch": "i9100"
     },
     {
         "repository": "TeamHorizon/android_device_samsung_galaxys2-common",
