@@ -1,8 +1,8 @@
 [
     {
-        "repository": "TeamHorizon/android_kernel_samsung_smdk4412",
+        "repository": "LineageOS/android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-	"branch": "n"
+	"branch": "cm-14.1"
     },
     {
         "repository": "TeamHorizon/proprietary_vendor_samsung",
